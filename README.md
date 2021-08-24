@@ -28,4 +28,4 @@ In this project I used VBA scripting to analyze real stock market data.
 - Excel -VBA Script
 
 ## License
-MIT © hej6853
+© hej6853
